@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <!-- Non modificare il valore dell'attributo Name sottostante. Se non corrisponde al nome della cartella dell'elemento del progetto Elenco, si verificherà un errore in fase di esecuzione del progetto. -->
+    <ListTemplate
+        Name="EmployerList"
+        Type="100"
+        BaseType="0"
+        OnQuickLaunch="TRUE"
+        SecurityBits="11"
+        Sequence="410"
+        DisplayName="EmployerList"
+        Description="Definizione di elenco personale"
+        Image="/_layouts/15/images/itgen.png"/>
+</Elements>

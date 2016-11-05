@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- ContentType padre: Elemento (0x01) -->
+  <ContentType ID="0x010001EE07D7B8744918ACB3A63C5356FE4F" Name="Employer" Group="Tipi di contenuto personalizzati" Description="Tipo di contenuto personale" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{133cb947-8091-4b04-96bf-460eedee0238}" DisplayName="Cognome" Required="FALSE" Name="Cognome" />
+      <FieldRef ID="{b91949c3-ba61-4204-ae46-63a8c0c8d86b}" DisplayName="Nome" Required="FALSE" Name="Nome" />
+    </FieldRefs>
+  </ContentType>
+</Elements>
